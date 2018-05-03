@@ -1,0 +1,7 @@
+output/
+DatiRilevazioneSemestraleCorpoElettorale/
+
+/\.ipynb_checkpoints/
+
+# misc
+.DS_Store
